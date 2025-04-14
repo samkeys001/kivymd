@@ -1,0 +1,11 @@
+Layout Class	                   Purpose
+BoxLayout	   ----------------   Arranges widgets in a vertical or horizontal box.
+GridLayout   ----------------   rranges widgets in a grid of rows and columns.
+StackLayout  ----------------	  Places widgets next to each other until no space is left, then wraps.
+FloatLayout  ----------------   Places widgets at absolute positions using pos and size_hint.
+AnchorLayout ---------------- 	Anchors widgets to top, bottom, center, etc.
+RelativeLayout --------------   Positions widgets relative to their parent layout.
+ScatterLayout	----------------  Used to rotate, scale, drag widgets — for gestures.
+PageLayout  ------------------	For creating multi-page swipeable views.
+ScrollView   -------------------	Enables scrolling — usually wraps another layout.
+ 
